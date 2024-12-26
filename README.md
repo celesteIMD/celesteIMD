@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @celesteIMD
+- 👀 I’m interested in game development, programming, art, and design!
+- 🌱 I’m currently learning how to use Godot!
+- 📫 How to reach me: my name is Celeste Shi, connect with me on LinkedIn. 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love cats!
